@@ -16,7 +16,7 @@ div[class=caption]{
  width: 50%;
  font-style: italic;
 }
-#most_important{
+div[id=most_important]{
  background-color: LightGray;
  width: 200 px;
  height: 100 px;
