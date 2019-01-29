@@ -12,11 +12,11 @@ code{
  text-decoration: underline;
 }
 
-div[class=caption]{
+caption.class{
  width: 50%;
  font-style: italic;
 }
-#most_important{
+div#most_important{
  background-color: lightgrey;
  width: 200 px;
  height: 100 px;
