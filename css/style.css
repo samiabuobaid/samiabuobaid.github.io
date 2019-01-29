@@ -16,7 +16,7 @@ caption.class{
  width: 50%;
  font-style: italic;
 }
-div#most_important{
+#most_important{
  background-color: LightGray;
  width: 200 px;
  height: 100 px;
