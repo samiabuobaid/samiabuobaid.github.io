@@ -30,5 +30,5 @@ p{
 }
   
 div[class=plotly]{
- width = 50%; 
+ width: 50%; 
 }
