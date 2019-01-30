@@ -29,6 +29,6 @@ p{
   background-color:light
 }
   
-div{
+div[class=plotly]{
  width = 50%; 
 }
