@@ -22,16 +22,23 @@ a:hover, a:active{
 h1{
   text-align: center;
   background-color: green;
+  text-decoration: "Times New Roman", Times, serif;
 }
 
 p{
-  text-align: center;
   text-decoration: "Times New Roman", Times, serif;
   color: black;
-  background-color: LightGray;
 }
 
 h2{
+  text-decoration: "Times New Roman", Times, serif;
+}
+div[class=graph]{
   text-align: center;
 }
-
+div[class=map]{
+  text-align: center;
+}
+div[class=endnotes]{
+  text-align: left;
+}
