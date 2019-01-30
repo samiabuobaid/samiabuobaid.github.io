@@ -2,18 +2,21 @@ a:link{
   text-decoration: none;
   color: black;
   text-align: center;
+  text-decoration: "Times New Roman", Times, serif;
 }
 
 a:visited{
   text-decoration: underline;
   color: blue;
   text-align: center;
+  text-decoration: "Times New Roman", Times, serif;
 }
 
 a:hover, a:active{
   text-decoration: underline;
   color: DodgerBlue;
   text-align: center;
+  text-decoration: "Times New Roman", Times, serif;
 }
 
 h1{
@@ -28,3 +31,5 @@ p{
   color: black;
   background-color:light
 }
+
+
