@@ -17,7 +17,7 @@ a:hover, a:active{
 }
 
 p{
-  text-align: center;
+  text-align: red;
   text-decoration: "Times New Roman", Times, serif;
   color: black;
 }
