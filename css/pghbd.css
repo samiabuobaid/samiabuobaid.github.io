@@ -21,7 +21,6 @@ a:hover, a:active{
 
 h1{
   text-align: center;
-  top-margin: 200px;
   background-color: green;
 }
 
@@ -32,4 +31,7 @@ p{
   background-color:light
 }
 
+div p{
+  background-color: LightGray;
+}
 
