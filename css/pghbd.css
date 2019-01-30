@@ -16,4 +16,10 @@ a:hover, a:active{
   text-align: center;
 }
 
+p{
+  text-align: center;
+  text-decoration: "Times New Roman", Times, serif;
+  color: black;
+}
+  
 
