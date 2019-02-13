@@ -21,3 +21,6 @@ div[id=most_important]{
  width: 200px;
  height: 100px;
 }
+div[id=alert]{
+ alert("YOU HAVE CLICKED ALERT. YOU HAVE BEEN ALERTED");
+}
