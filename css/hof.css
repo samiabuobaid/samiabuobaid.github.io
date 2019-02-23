@@ -114,3 +114,14 @@ a:hover, a:active{
    margin-top: 75%;
 }
 
+#main{
+ float: left;
+   width: 75%;
+}
+
+#sidebar{
+   float: right;
+   width: 25%;
+}
+}
+
