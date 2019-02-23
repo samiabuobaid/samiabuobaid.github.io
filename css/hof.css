@@ -1,4 +1,9 @@
-   ol, ul{
+h1{
+   text-align: center;
+}
+
+
+ol, ul{
 
         list-style: none;
 
