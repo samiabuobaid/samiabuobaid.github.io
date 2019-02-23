@@ -1,1 +1,22 @@
+body{
+ font-family: Times New Roman, serif;
+  margin: 0;
+  padding: 0;
+}
 
+p, h1, h2, h3, h4, h5, h6, li{
+  margin: 1ex 13m;
+}
+
+div#outerDiv{
+ width: 770px;
+  margin: 0 auto;
+  height: 200px;
+  background-color: lightgray;
+}
+
+div#header{
+ height: 110px;
+  position: relative;
+  background-color: white;
+}
