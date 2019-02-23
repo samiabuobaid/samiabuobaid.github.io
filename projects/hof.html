@@ -5,18 +5,35 @@
       HOF Origins
     </title>
   <syle>
-    #menu{
-    width: 100%;
-    margin: 0;
-    padding: 10px 000;
-    list-style: none;
-    background: black;
+    .menu{
+    background-color: #333;
+    overflow: hidden;
+    
+    .menu a{
+    float: left;
+    color:#f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    }
+    
+    .menu a:hover{
+    background-color: #ddd;
+    color: black;
+    }
+    
+    .class a:active{
+    background-color: $4CAF50;
+    color: white;
     </style>
   </head>
-<h1>
+
+  
+ <h1>
 NFL Hall of Fame 
   </h1>
-  <div id="menu">
+  <div class="menu">
   <ul>
     <li> <a href="/projects/histo.html" class="current"> Players per State Histogram </a>
     <li> <a href="/projects/states.html"> Players per State Map </a>
