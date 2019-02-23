@@ -1,5 +1,9 @@
+    ol, ul{
+        list-style: none;
+    }   
+
     .menu{
-    background-color: #333;
+    background-color: lightgray;
     overflow: hidden;
     
     .menu a{
