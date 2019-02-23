@@ -3,11 +3,10 @@
     }   
 
     #menu{
-    background-color: lightgray;
-    margin:10px;
+        margin:auto;
         width: 900px;
         font-family: sans-serif;
-        text-align: center;
+        width = 50%;
     }
 
     #menu li{
@@ -21,7 +20,7 @@
     #menu a{
        display: block;
         padding: 2px;
-        \text-decoration: none;
+        text-decoration: none;
         background-color: #fff;
         color: #009;
     }
