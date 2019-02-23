@@ -123,5 +123,8 @@ a:hover, a:active{
    float: right;
    width: 25%;
 }
+
+table, th, tr, td{
+   border: 2px solid black;
 }
 
