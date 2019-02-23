@@ -1,31 +1,63 @@
-    ol, ul{
+   ol, ul{
+
         list-style: none;
+
     }   
 
+
+
     #menu{
-        margin:auto;
+
+    background-color: lightgray;
+
+    margin:10px;
+
         width: 900px;
+
         font-family: sans-serif;
-        width = 50%;
+
+        text-align: center;
+
     }
+
+
 
     #menu li{
+
         display: block;
+
         width: 120px;
-        float: center;
+
+        float: left;
+
         margin-left: 2px;
+
         border: 1px solid #000;
+
     }
 
+
+
     #menu a{
+
        display: block;
+
         padding: 2px;
-        text-decoration: none;
+
+        \text-decoration: none;
+
         background-color: #fff;
+
         color: #009;
+
     }
+
     
+
     #menu a:hover{
+
     background-color: #009;
+
     color: #fff;
+
     }
