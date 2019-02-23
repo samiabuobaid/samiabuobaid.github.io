@@ -4,6 +4,14 @@ body{
   padding: 0;
 }
 
-#ul{
+#menu ul{
  list-style: none;
+ margins: 0;
+ padding: 0;
+}
+
+#menu li{
+ float: left;
+ margin: 0;
+ padding: 0;
 }
