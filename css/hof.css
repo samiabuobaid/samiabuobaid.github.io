@@ -114,14 +114,12 @@ a:hover, a:active{
    margin-top: 75%;
 }
 
-#main{
- float: left;
-   width: 75%;
-}
-
-#sidebar{
-   float: right;
-   width: 25%;
+#header{
+height: 100px;
+   background: #d3d3d3;
+   border: 2px solid black
+      width: 1080px;
+   margin: 0px auto;
 }
 
 table, th, tr, td{
