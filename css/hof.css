@@ -116,8 +116,8 @@ a:hover, a:active{
 
 #header{
 height: 100px;
-   background: #d3d3d3;
-   border: 2px solid black
+   background: white;
+   border: 2px solid black;
       width: 1080px;
    margin: 0px auto;
 }
