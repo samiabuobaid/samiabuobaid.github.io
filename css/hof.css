@@ -20,7 +20,7 @@ height: 200px;
 #main{
  background: #d3d3d3;
    border: 2px solid black;
-   width 1080px;
+   width: 75%;
    height: auto;
    
 }
@@ -40,7 +40,7 @@ height: 200px;
     display: block;
     width: 20%;
     height: 25px;
-    float: left;
+    float: center;
     margin: 0;
     padding: 0;
     border: 1px solid #000;
