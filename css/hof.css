@@ -22,6 +22,7 @@ height: 200px;
    border: 2px solid black;
    width: 75%;
    height: auto;
+   float: center;
    
 }
 
@@ -38,9 +39,9 @@ height: 200px;
 
     #menu li{
     display: block;
-    width: 20%;
+    width: 25%;
     height: 25px;
-    float: center;
+    float: left;
     margin: 0;
     padding: 0;
     border: 1px solid #000;
