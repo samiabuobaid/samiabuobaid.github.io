@@ -19,10 +19,10 @@ height: 200px;
 
 #main{
  background: #d3d3d3;
-   border: 2xpx solid black;
+   border: 2px solid black;
    width 1080px;
    height: auto;
-   margin: 0px auto;
+   
 }
 
     #menu{
@@ -40,7 +40,7 @@ height: 200px;
     display: block;
     width: 20%;
     height: 25px;
-    float: center;
+    float: left;
     margin: 0;
     padding: 0;
     border: 1px solid #000;
