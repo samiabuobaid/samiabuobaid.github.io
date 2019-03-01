@@ -13,11 +13,11 @@ ol, ul{
 
     #menu{
 
-    background-color: lightgray;
+    background-color: white;
 
     margin:10px;
 
-        width: 900px;
+        width: 100%;
 
         font-family: sans-serif;
 
@@ -115,7 +115,7 @@ a:hover, a:active{
 }
 
 #header{
-height: 100px;
+height: 200px;
    background: white;
    border: 2px solid black;
       width: 1080px;
