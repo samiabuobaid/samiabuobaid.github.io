@@ -122,6 +122,15 @@ height: 100px;
    margin: 0px auto;
 }
 
+#main{
+ background: #d3d3d3;
+   border: 2xpx solid black;
+   width 1080px;
+   height: auto;
+   margin: 0px auto;
+}
+
+
 table, th, tr, td{
    border: 2px solid black;
 }
