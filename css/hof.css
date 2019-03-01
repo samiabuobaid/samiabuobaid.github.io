@@ -32,7 +32,7 @@ ol, ul{
 
     #menu li{
 
-        display: block;
+        display: inline;
 
         width: 25%;
          
