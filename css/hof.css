@@ -49,29 +49,7 @@ height: 200px;
 
 
 
-    #menu a{
-
-       display: block;
-
-        padding: 2px;
-
-        text-decoration: none;
-
-        background-color: #fff;
-
-        color: #009;
-
-    }
-
-    
-
-    #menu a:hover{
-
-    background-color: #009;
-
-    color: #fff;
-
-    }
+   
 
 
 a:link{
