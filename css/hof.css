@@ -52,45 +52,7 @@ height: 200px;
    
 
 
-a:link{
 
-  text-decoration: none;
-
-  color: black;
-
-  text-align: center;
-
-  text-decoration: "Times New Roman", Times, serif;
-
-}
-
-
-
-a:visited{
-
-  text-decoration: underline;
-
-  color: blue;
-
-  text-align: center;
-
-  text-decoration: "Times New Roman", Times, serif;
-
-}
-
-
-
-a:hover, a:active{
-
-  text-decoration: underline;
-
-  color: DodgerBlue;
-
-  text-align: center;
-
-  text-decoration: "Times New Roman", Times, serif;
-
-}
 
 #content{
    text-align:center;
