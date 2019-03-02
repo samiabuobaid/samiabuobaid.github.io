@@ -47,6 +47,67 @@ height: 200px;
     border: 1px solid #000;
     }
 
+a:link{
+
+  text-decoration: none;
+
+  color: black;
+
+  text-align: center;
+
+  text-decoration: "Times New Roman", Times, serif;
+
+}
+
+ #menu a{
+
+       display: block;
+
+        padding: 2px;
+
+        text-decoration: none;
+
+        background-color: #fff;
+
+        color: #009;
+
+    }
+
+    
+
+    #menu a:hover{
+
+    background-color: #009;
+
+    color: #fff;
+
+    }
+
+a:visited{
+
+  text-decoration: underline;
+
+  color: blue;
+
+  text-align: center;
+
+  text-decoration: "Times New Roman", Times, serif;
+
+}
+
+
+
+a:hover, a:active{
+
+  text-decoration: underline;
+
+  color: DodgerBlue;
+
+  text-align: center;
+
+  text-decoration: "Times New Roman", Times, serif;
+
+}
 
 
    
