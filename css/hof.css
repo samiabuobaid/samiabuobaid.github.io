@@ -27,13 +27,13 @@ height: 200px;
 }
 
 #left{
-   float left;
+   float: left;
 width: 70%;  
 height: auto;
 }
 
 #right{
-   float right;
+   float: right;
    width: 30%;
    text-align: center;
    
