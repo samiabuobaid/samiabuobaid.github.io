@@ -26,6 +26,18 @@ height: 200px;
    
 }
 
+#left{
+width: 70%;  
+height: auto;
+}
+
+#right{
+   width: 30%;
+   text-align: center;
+   
+}
+
+
     #menu{
 
     background-color: white;
