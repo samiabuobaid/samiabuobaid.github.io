@@ -116,6 +116,10 @@ height: 860px;;
 }
 
 #menu a:active{
+   text-decoration: underline;
+   color: white;
+   background-color: DodgerBlue;
+   text-decoration: "Times New Roman", Times, serif;
    
    
 }
