@@ -103,7 +103,7 @@ height: 860px;;
 
 
 
-#menu a:hover, a:active{
+#menu a:hover{
 
   text-decoration: underline;
 
@@ -113,6 +113,11 @@ height: 860px;;
 
   text-decoration: "Times New Roman", Times, serif;
 
+}
+
+#menu a:active{
+   
+   
 }
 
 table, th, tr, td{
