@@ -12,14 +12,14 @@ ol, ul{
 #header{
 height: 200px;
    background: white;
-   border: 2px solid black;
+   
       width: 75%;
    margin: 0px auto;
 }
 
 #main{
- background: #d3d3d3;
-   border: 2px solid black;
+ background: white;
+   
    width: 860px;
    height: auto;
    margin: 0px auto;
