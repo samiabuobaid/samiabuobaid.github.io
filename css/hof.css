@@ -3,7 +3,7 @@ h1{
 }
 
 
-ol, ul{
+#header ol, ul{
 
         list-style: none;
 
@@ -60,7 +60,10 @@ height: 860px;;
     margin: 0;
     padding: 0;
     }
-
+   
+    #right li{
+       float: center;
+    }
 
  a{
 
