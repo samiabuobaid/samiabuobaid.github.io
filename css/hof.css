@@ -60,19 +60,8 @@ height: auto;
     padding: 0;
     }
 
- #menu a:link{
 
-  text-decoration: none;
-
-  color: black;
-
-  text-align: center;
-
-  text-decoration: "Times New Roman", Times, serif;
-
-}
-
- #menu a{
+ a{
 
        display: block;
 
@@ -86,11 +75,24 @@ height: auto;
 
     }
 
+
+ #menu a:link{
+
+  text-decoration: none;
+
+  color: black;
+
+  text-align: center;
+
+  text-decoration: "Times New Roman", Times, serif;
+
+}
+
 #menu a:visited{
 
   text-decoration: underline;
 
-  color: blue;
+  color: grey;
 
   text-align: center;
 
